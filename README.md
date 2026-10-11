@@ -10,3 +10,4 @@
 - Feature 1: recurring pickup schedules
 - Feature 2: admin approval workflow
 - Feature 3: auto-generate pickups from approved schedules
+- Submitted to Moodle on 10 Oct 2026
