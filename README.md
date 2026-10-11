@@ -7,3 +7,4 @@
 - Useful trick: update profile to refresh the graph
 
 ## CleanTrack assignment
+- Feature 1: recurring pickup schedules
