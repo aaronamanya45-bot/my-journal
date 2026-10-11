@@ -8,3 +8,4 @@
 
 ## CleanTrack assignment
 - Feature 1: recurring pickup schedules
+- Feature 2: admin approval workflow
